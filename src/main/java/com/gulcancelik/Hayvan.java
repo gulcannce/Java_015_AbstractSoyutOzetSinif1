@@ -1,4 +1,4 @@
-package com.mimaraslan;
+package com.gulcancelik;
 
 public abstract class Hayvan {
 

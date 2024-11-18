@@ -1,4 +1,4 @@
-package com.mimaraslan;
+package com.gulcancelik;
 
 public class Kedi extends Hayvan implements Kural{
     public Kedi() {
